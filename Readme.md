@@ -35,3 +35,10 @@
 - Twitter (ilk 148 karakter)
 - Whats app
 - Facebook
+
+# Frameworks & Language
+
+- Frontend: React (JS)
+- Backend: Node.js
+- DB: mongodb
+- Image Storage: Cloudinary
